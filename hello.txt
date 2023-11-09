@@ -14,4 +14,4 @@ hello git!, Hello there!
 hello git!, Hello there!
 hello git!, Hello there!
 hello git!, Hello there!
-hello git!, Hello there!
+hello git!, Hello there! hot-fix test
